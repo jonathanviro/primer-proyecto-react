@@ -1,4 +1,5 @@
 body, html {
     background-color: black;
-    color: aqua;
+    color: rgb(255, 255, 255);
+    padding: 2%;
 }
